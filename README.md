@@ -18,6 +18,7 @@
 <p>Um pequeno layout de uma página inicial de um clone do Twitter. Feito como exercício e um momento de desenvolver algo por pura diversão, sem nenhuma pressão. Acredito que pode ser uma boa forma de se manter mais ativo e quando estiver sob pressão, gerar os resultados necessários. Só curta, nem tudo tem que ser visto como um trabalho penoso, tudo flúi melhor quando estamos fazendo coisas das quais gostamos de fazer. 
 </p>
 
+## 🔖 Algumas Interfaces 
 <p align="center"> 
   <img alt="Int" title="Int" src="assets/int1.png" width="500px" />
 </p>

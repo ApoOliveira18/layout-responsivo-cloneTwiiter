@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 
-## :information_source: Como Usar
+## :information_source: How To Use
 
 Para clonar essa aplicação, você precisará de [Git](https://git-scm.com), instalado em seu computador.
 

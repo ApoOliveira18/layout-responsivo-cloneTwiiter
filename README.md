@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 
-## :information_source: Como Usar
+## Como Usar
 
 Para clonar essa aplicação, você precisará de [Git](https://git-scm.com), instalado em seu computador.
 
@@ -54,19 +54,6 @@ $ git clone https://github.com/ApoOliveira18/MachineLearning-BostonHousing.git
 $ cd MachineLearning-BostonHousing/
 ```
 
-## 🤔 How to contribute
-
-- Make a fork;
-- Create a branck with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
-
-After merging your receipt request to done, you can delete a branch from yours.
-
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
-
 ---
 
 Feito com ♥ && 🎧 && 😊 || 😥 
@@ -74,9 +61,3 @@ Feito com ♥ && 🎧 && 😊 || 😥
 
 [python]: https://docs.python.org/2/index.html
 [jupyter]: https://yarnpkg.com/
-
-
-
-
-
-

@@ -34,7 +34,7 @@
  </p>
 
 
-## :rocket: Technologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -51,15 +51,14 @@ Na sua linha de comando
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/MachineLearning-BostonHousing.git
+$ git clone https://github.com/ApoOliveira18/layout-responsivo-cloneTwitter.git
 # Go into the repository
-$ cd MachineLearning-BostonHousing/
+$ cd layout-responsivo-cloneTwitter/
 ```
-
 ---
 
 Feito com ♥ && 🎧 && 😊 || 😥 
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
-[python]: https://docs.python.org/2/index.html
-[jupyter]: https://yarnpkg.com/
+[HTML5]: https://www.w3schools.com/html/default.asp
+[CSS3]: https://www.w3schools.com/css/default.asp

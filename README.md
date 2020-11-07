@@ -43,6 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :information_source: How To Use
 
+
 Para clonar essa aplicação, você precisará de [Git](https://git-scm.com), instalado em seu computador.
 
 Na sua linha de comando

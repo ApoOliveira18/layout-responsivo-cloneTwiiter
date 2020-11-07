@@ -20,11 +20,16 @@
 
 <p align="center"> 
   <img alt="Int" title="Int" src="assets/int1.png" width="700px" />
+</p>
+<p align="center"> 
   <img alt="Int" title="Int" src="assets/int2.png" width="700px" />
+</p>
+<p align="center"> 
   <img alt="Int" title="Int" src="assets/int5.png" width="250px" />
+</p>
+<p align="center"> 
   <img alt="Int" title="Int" src="assets/int3.png" width="100px" />
-  <img alt="Int" title="Int" src="assets/int4.png" width="100px" />
- 
+  <img alt="Int" title="Int" src="assets/int4.png" width="100px" /> 
  </p>
 
 

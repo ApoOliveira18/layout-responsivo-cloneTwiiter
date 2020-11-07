@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ML Udacity" title="#Logo" src="assets/udLg.jpg" width="550px" />
+    <img alt="ML Udacity" title="#Logo" src="assets/twitter.png" width="300px" />
 </h1>
 
 <h4 align="center"> 
@@ -21,9 +21,9 @@
 <p align="center"> 
   <img alt="Int" title="Int" src="assets/int1.png" width="700px" />
   <img alt="Int" title="Int" src="assets/int2.png" width="700px" />
-  <img alt="Int" title="Int" src="assets/int5.png" width="500px" />
-  <img alt="Int" title="Int" src="assets/int3.png" width="300px" />
-  <img alt="Int" title="Int" src="assets/int4.png" width="300px" />
+  <img alt="Int" title="Int" src="assets/int5.png" width="250px" />
+  <img alt="Int" title="Int" src="assets/int3.png" width="100px" />
+  <img alt="Int" title="Int" src="assets/int4.png" width="100px" />
  
  </p>
 
